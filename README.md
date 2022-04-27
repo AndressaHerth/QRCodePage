@@ -4,11 +4,7 @@
 
 ​	Projeto para que o usuário possa entrar na página FrontEndMentor através do QR code disponível. Segue screenshot da página:
 
-
-
-![image-20220427155911323](C:\Users\Administrador\AppData\Roaming\Typora\typora-user-images\image-20220427155911323.png)
-
-
+![ProjectQrCodeScreenshot](https://user-images.githubusercontent.com/92877580/165629396-569b572d-9fac-4202-8942-69409aca3481.PNG)
 
 ### Meu processo:
 
